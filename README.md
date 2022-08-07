@@ -1,15 +1,14 @@
-### Oi eu sou o sleepy 💜
+### 💜 Oi eu sou o sleepy
 - 🎻 Atualmente estudo muito backand
 - 🌙 Estudante de lua
 - 🔍 Pronomes: ele/dele
 
-<div>
-  <a href="https://beacons.al/sleepylep%22%3E
+### 🌍 Linguagens Mais Usadas
+![image](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<img height="180" src="https://github-reader-stats.vercel.app/api/username-sleepylep&show_Icons-true&theme-dracula&include_all_commits-true&count private-true"/> <img height="18ffen" src="https://github-readme.stats.vercel.app/api/top-langs/?username=sleepylep81ayout-compact&langs_count=16&theme-dracula%22/%3E>
-</div>
- 
-  
-<div style="dispay: inline_block"><br>
-  <img aligh-"center" alt-"SleepyLua" height-"30' width-"40" src"<svg version="1.1" id="lua-original-Ebene_1" xmlns="http://www.w3.org/2000/svg">
-  </div>
+### 🏆 Github Stats
+![sleepylep Status](https://github-readme-stats.vercel.app/api?username=sleepylep&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepylep&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
