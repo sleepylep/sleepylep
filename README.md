@@ -1,16 +1,15 @@
-### Hi there 👋
+### Oi eu sou o sleepy 💜
+- 🎻 Atualmente estudo muito backand
+- 🌙 Estudante de lua
+- 🔍 Pronomes: ele/dele
 
-<!--
-**sleepylep/sleepylep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://beacons.al/rafaballerini%22%3E
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="180" src="https://github-reader-stats.vercel.app/api/username-rafaballerin12&show_Icons-true&theme-dracula&include_all_commits-true&count private-true"/> <img height="18ffen" src="https://github-readme.stats.vercel.app/api/top-langs/?username=rafaballerini281ayout-compact&langs_count=16&theme-dracula%22/%3E
+</div>
+ 
+  
+<div style="dispay: inline_block"><br>
+  <img aligh-"center" alt-"SleepyLua" height-"30' width-"40" src"<svg version="1.1" id="lua-original-Ebene_1" xmlns="http://www.w3.org/2000/svg">
+  </div>
