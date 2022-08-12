@@ -1,5 +1,5 @@
 ### 💜 Oi eu sou o sleepy
-- 🎻 Atualmente estudo muito backand
+- 🎻 Atualmente gosto muito de backand e gamedev
 - 🌙 Estudante de lua
 - 🔍 Pronomes: ele/dele
 
@@ -10,6 +10,7 @@
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+![image](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![image](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 ### 🏆 Github Stats
 ![sleepylep Status](https://github-readme-stats.vercel.app/api?username=sleepylep&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepylep&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
