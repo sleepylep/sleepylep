@@ -1,5 +1,5 @@
 ### 💜 Oi eu sou o sleepy
-- 🎻 Atualmente gosto muito de backand e gamedev
+- 🎻 Atualmente gosto muito de backend e gamedev
 - 🌙 Estudante de lua
 - 🔍 Pronomes: ele/dele
 
